@@ -6,3 +6,5 @@ Day 1:
   The lifecycle of machine learning model.
   Difference between Supervised Learning( Classification & Regression ) and Unsupervised Learning( Clustering & Association ).
   How to install PIP and ohter python libraries like Sklearn, Scipy, Numpy, Pandas .Etc using powershell and cmd commands.
+Day 2:
+  Learned about how tosplit a dataset into training dataset and testing dataset.
